@@ -49,7 +49,7 @@
           <td align=center width="500">😶</td>
           <td align=center width="500">😶</td>
           <td align=center width="500">😶</td>
-          <td align=center width="500">😶</td>
+          <td align=center width="500">🥰</td>
       </tr>
     </thead>
       <tr>
@@ -77,8 +77,10 @@
             -  Elastic Stack
           </td>
           <td align=center>
-            - ERD 설계 <br/>
-            - Api 구현 <br/>
+            - 전반적인 DB설계 및 엔티티 매핑<br/>
+            - 전반적인 API설계 <br/>
+            - 멤버, 컬렉션, 알림 API 구현 <br/>
+            - 웹 소켓 기반 알림 구현 <br/>
           </td>
       </tr>
   </table>
@@ -176,10 +178,10 @@
 
   <h2>📌 Api </h2>
   * API Notion Link
-  <img src="https://github.com/PinTogether/.github/assets/89989211/6777bcda-f18a-4d8a-9994-6bd0b0032ff8" alt="pintogether-api" />
+  <img src="https://github.com/PinTogether/.github/assets/95565246/0a07c184-5323-44a2-95c1-11b0f81548c6" alt="pintogether-api" />
 
   <h2>📌 ERD </h2>
-  <img src="https://github.com/PinTogether/.github/assets/89989211/8f6a6f86-62b7-4812-864f-97b9ed4c6cba" alt="pintogether-erd" />
+  <img src="https://github.com/PinTogether/.github/assets/95565246/f84a0533-1f3b-4d17-a2ec-6c2c8af6631e" alt="pintogether-erd" />
 
 </section>
 

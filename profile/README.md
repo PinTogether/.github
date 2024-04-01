@@ -51,32 +51,32 @@
       </tr>
     </thead>
       <tr>
-          <td align=center><a href="https://github.com/jwo1024">이지우</a></td> 
+          <td align=center><a href="https://github.com/jwo1024">이지우(팀장)</a></td> 
           <td align=center><a href="https://github.com/UMGGG">전재영</a></td>
           <td align=center><a href="https://github.com/tehyoyee">김태형</a></td>
           <td align=center><a href="https://github.com/spew11">이은지</a></td>
       </tr>
       <tr>
-          <td align=center>프론트엔드, 기획, 설계, 디자인</td>
-          <td align=center>프론트엔드, 설계</td>
-          <td align=center>백엔드, 설계, 인프라(클라우드), CI/CD, Elastic Stack</td>
-          <td align=center>백엔드, 설계, 인프라(클라우드)</td>
+          <td align=center>프론트엔드, 기획, 디자인</td>
+          <td align=center>프론트엔드</td>
+          <td align=center>백엔드, 인프라(클라우드), CI/CD</td>
+          <td align=center>백엔드, 인프라(클라우드)</td>
       </tr>
       <tr>
           <td align=center>
-            - 기타
-            <br/>
+            - 기타 <br/>
             - 기타 등등
           </td>
           <td align=center>
-            - Naver Map api
+            - Naver Map api <br/>
             - 
           </td>
           <td align=center>
-            -
+            -  Elastic Stack
           </td>
           <td align=center>
-            - ...
+            - ERD 설계 <br/>
+            - Api 구현 <br/>
           </td>
       </tr>
   </table>

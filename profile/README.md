@@ -172,7 +172,7 @@
   <h2>📌 아키텍쳐 Architecture</h2>
   <img src="https://github.com/PinTogether/.github/assets/89989211/dc58d944-f6ea-498b-908d-5f9dff6834ce" alt="pintogether-architecture" width="800"/>
 
-  <h2>📌 Api </h2>
+  <h2>📌 Api </h2>
   * API Notion Link
   <img src="https://github.com/PinTogether/.github/assets/89989211/6777bcda-f18a-4d8a-9994-6bd0b0032ff8" alt="pintogether-api" />
 

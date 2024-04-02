@@ -1,4 +1,7 @@
 
+<section align="end" style="color: #fff;">
+  <p>${\small\texttt{\color{#a9a9a9} last 23.04.02}}$</p>
+</section>
 
 <section align="center">
 
@@ -7,39 +10,56 @@
 </a>
 
 </section>
+
 <br/>
 <br/>
+<br/>
+
+<section>
+   <h2> 목차 </h2>
+  
+</section>
 <br/>
 
 <section>
   <h2>📌 소개 Introduction</h2>
-  Pintogether는 지도를 기반으로 한, 장소 공유 서비스입니다.
+
+  >  [pintogether.co.kr](https://www.pintogether.co.kr) <br/>
+  >  좋아하는 장소에 핀을 찍고, 컬렉션을 만들어 친구들과 공유해보세요!  <br/>
+  
+  <br/>
+  Pintogether는 지도를 기반으로 한 장소 공유 웹 서비스 프로젝트입니다.  <br/>
+  <br/>
+
+  타인이 알고있는 맛집과 장소들을 한눈에 확인하고 손쉽게 탐색하기 어렵다는 일상의 불편함에서 출발했습니다. <br/>
+  이를 해소하기 위해 웹 기반의 장소 목록 서비스를 구상하게 되었습니다. <br/>
+  사용자들이 맛집리스트를 발견하고 공유하는 즐거움을 쉽고 편리하게 누릴수 있는 서비스를 추구합니다. <br/>
+  
+  <br/>
+
+  <h2>📌 프로젝트 진행 기간 </h2>
+
+  설계 및 주요 기능 구현 : 24.01.15 ~ 03.31
+
+  실제 서비스 배포를 위한 리펙토링 : 24.04.01 ~ 개발중
+
   <br/>
 
 
-  * 장소 데이터 현재 25만건
-
-  * 기획 배경
-  * [pintogether.co.kr](https://www.pintogether.co.kr)
-
   <h2>📌 제공하는 기능 </h2>
-  * SNS 장소 공유
+
+  * 소셜로그인
   * 장소 검색
+    * 현재 LOCALDATA(지방행정 인허가 데이터 개방)에서 가져온 음식점 데이터 약 25만건을 기반으로, 장소 검색기능을 제공하고 있습니다.
   * 장소 목록화
   * 인기 컬렉션 추천
-  * 
+  * 컬렉션 링크 공유
 
-  * 프로젝트 진행 기간
-    * 1월 15일 ~ 3월 31일
-  * 리펙토링
-    * 4월 1일 ~
 
 </section>
 
-<section>
-   <h2>📌 목차 </h2>
-  
-</section>
+<br/>
+
 
 <section >
   <h2>📌 팀원 소개 </h2>
@@ -85,6 +105,7 @@
       </tr>
   </table>
 </section>
+<br/>
 
 <section>
   <h2>📌 서비스 화면 </h2>

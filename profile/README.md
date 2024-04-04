@@ -21,6 +21,12 @@
   1. [소개](#-소개-Introduction) 
   2. [프로젝트 진행 기간](#-프로젝트-진행-기간)
   3. [제공하는 기능](#-제공하는-기능)
+  4. [팀원 소개](#-팀원-소개)
+  5. [서비스 화면](#-서비스-화면)
+  6. [사용 기술](#-사용-기술)
+  7. [아키텍쳐](#-아키텍쳐-Architecture)
+  8. [API](#-API)
+  9. [ERD](#-ERD)
   
 </section>
 <br/>
@@ -80,7 +86,7 @@
 
 
 <section >
-  <h2>📌 팀원 소개 </h2>
+  <h2>📌 팀원 소개</h2>
   <table align=center>
     <thead>
       <tr>
@@ -127,7 +133,7 @@
 <br/>
 
 <section>
-  <h2>📌 서비스 화면 </h2>
+  <h2>📌 서비스 화면</h2>
 
   * 서비스 페이지별로
   * 지도
@@ -153,7 +159,7 @@
   * 공유하기 기능 - Open Graph 적용
   
 <section>
-  <h2>📌 사용 기술 </h2>
+  <h2>📌 사용 기술</h2>
 
   ### Backend
   * Java 17
@@ -216,11 +222,11 @@
   <h2>📌 아키텍쳐 Architecture</h2>
   <img src="https://github.com/PinTogether/.github/assets/89989211/dc58d944-f6ea-498b-908d-5f9dff6834ce" alt="pintogether-architecture" width="800"/>
 
-  <h2>📌 Api </h2>
+  <h2>📌 Api</h2>
   * API Notion Link
   <img src="https://github.com/PinTogether/.github/assets/95565246/0a07c184-5323-44a2-95c1-11b0f81548c6" alt="pintogether-api" />
 
-  <h2>📌 ERD </h2>
+  <h2>📌 ERD</h2>
   <img src="https://github.com/PinTogether/.github/assets/95565246/f84a0533-1f3b-4d17-a2ec-6c2c8af6631e" alt="pintogether-erd" />
 
 </section>

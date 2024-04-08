@@ -119,7 +119,13 @@
             - 
           </td>
           <td align=center>
-            -  Elastic Stack
+            - ERD/API (1/3)
+            - 로그인 (JWT, OAuth)
+            - 검색
+            - 지도 데이터 수집
+            - Elastic Stack (ING)
+            - CI/CD 깃허브액션
+            - AWS 관리
           </td>
           <td align=center>
             - 전반적인 DB설계 및 엔티티 매핑<br/>

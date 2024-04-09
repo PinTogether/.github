@@ -91,7 +91,7 @@
     <thead>
       <tr>
           <td align=center width="500">😶</td>
-          <td align=center width="500">😶</td>
+          <td align=center width="500">😎</td>
           <td align=center width="500">😶</td>
           <td align=center width="500">🥰</td>
       </tr>

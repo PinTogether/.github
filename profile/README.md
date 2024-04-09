@@ -120,8 +120,13 @@
             - 활용 가능한 api 및 데이터 서치 <br/>
           </td>
           <td align=center>
-            - Naver Map api <br/>
-            - 
+            - 지도api 적용 및 지도에서 이용하는 기능 구현 <br/>
+            - 외부 api 적용 <br/>
+            - 페이지 기본 레이아웃, 사이드바, 지도 오버레이 구현 <br/>
+            - 각 페이지와 지도 내 마커 연동 <br/>
+            - 일부 페이지 담당 <br/>
+              (메인페이지, 프로필, 설정) <br/>
+            - 스켈레톤 ui <br/>
           </td>
           <td align=center>
             - ERD/API (1/3)<br/>

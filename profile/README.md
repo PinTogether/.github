@@ -143,29 +143,9 @@
 
 <section>
   <h2>📌 서비스 화면</h2>
-
-  * 서비스 페이지별로
-  * 지도
-  * 홈
-    * 추천 컬렉션
-  * 프로필 
-    * 조회
-    * 수정
-    * 팔로우
-    * 설정
-  * 컬렉션
-   * 조회
-   * 생성/수정
-   * 찜
-   * 댓글
-  * 장소 조회
-  * 검색
-    * 검색 기록
-    * 장소 / 컬렉션 검색
-  * 신고
-  * 알림
-
-  * 공유하기 기능 - Open Graph 적용
+   
+  [프레젠테이션](https://www.canva.com/design/DAGB4VnAkAw/npGrZzdtfy3Z-uApnkKp_A/view?utm_content=DAGB4VnAkAw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  
   
 <section>
   <h2>📌 사용 기술</h2>
@@ -179,11 +159,12 @@
   * Spring Websocket
 
   ### Frontend
-  * HTML/CSS
+  * HTML5/CSS3
+  * React 18
   * Typescript 5.0
   * Next.js 14.1.0
-  * React 18
   * Redux 5.0.1
+  * Redux Toolkit
   * SCSS 0.2.4
   * ESLint
 

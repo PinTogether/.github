@@ -143,10 +143,26 @@
 
 <section>
   <h2>📌 서비스 화면</h2>
-   
-  [프레젠테이션](https://www.canva.com/design/DAGB4VnAkAw/npGrZzdtfy3Z-uApnkKp_A/view?utm_content=DAGB4VnAkAw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
   
+  [프레젠테이션으로 보기](https://www.canva.com/design/DAGB4VnAkAw/npGrZzdtfy3Z-uApnkKp_A/view?utm_content=DAGB4VnAkAw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
   
+![2](https://github.com/PinTogether/.github/assets/89989211/64870e27-121e-4903-8720-d0677b28108a)
+![3](https://github.com/PinTogether/.github/assets/89989211/952921a3-2c31-434f-aec7-fa16bd25b4eb)
+![4](https://github.com/PinTogether/.github/assets/89989211/3252cbf0-fa8e-40e9-a6c6-ed5f8892c2b8)
+![5](https://github.com/PinTogether/.github/assets/89989211/7579e7c7-e902-408a-afe8-9c14faf28394)
+![6](https://github.com/PinTogether/.github/assets/89989211/e5a0eae6-76d1-4e61-bb3e-9a9b63e316da)
+![7](https://github.com/PinTogether/.github/assets/89989211/22043465-fde2-4600-96ba-31dfeb4fa69a)
+![8](https://github.com/PinTogether/.github/assets/89989211/1cae364b-0cfd-4add-8672-8ea2c7a983b1)
+![9](https://github.com/PinTogether/.github/assets/89989211/4c827fa3-1ef9-414e-80d3-4c8e966c6763)
+![10](https://github.com/PinTogether/.github/assets/89989211/76e2797d-c926-45e5-b278-3a245351ff23)
+![11](https://github.com/PinTogether/.github/assets/89989211/8127abc4-d278-418b-b8eb-96481bc29350)
+![12](https://github.com/PinTogether/.github/assets/89989211/fdd24d6c-63f7-4a99-920d-7dabe235c81d)
+![13](https://github.com/PinTogether/.github/assets/89989211/b679347b-dd0e-49ea-8899-b06421126c39)
+![14](https://github.com/PinTogether/.github/assets/89989211/668bb1da-f623-4d1b-9c0f-6f900c6334f8)
+![15](https://github.com/PinTogether/.github/assets/89989211/d6e76bad-5957-4713-9fac-ce3a92a34382)
+![16](https://github.com/PinTogether/.github/assets/89989211/7462d2b7-09c2-4700-9d3d-7f5144aa4768)
+
+
 <section>
   <h2>📌 사용 기술</h2>
 

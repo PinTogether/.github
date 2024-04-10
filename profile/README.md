@@ -130,12 +130,13 @@
           </td>
           <td align=center>
             - ERD/API (1/3)<br/>
-            - 로그인 (JWT, OAuth)<br/>
-            - 검색<br/>
-            - 지도 데이터 수집<br/>
+            - 로그인 (JWT, OAuth(google, kakao, naver)<br/>
+            - 검색엔진<br/>
+            - 지도 데이터 관리<br/>
             - Elastic Stack (ING)<br/>
-            - CI/CD 깃허브액션<br/>
-            - AWS 관리<br/>
+            - CI/CD 깃헙액션<br/>
+            - Github Submodule <br/>
+            - AWS (Amplify, ElasticBeanstalk, RDS, S3, ACM, IAM, Route53...)<br/>
           </td>
           <td align=center>
             - 전반적인 DB설계 및 엔티티 매핑<br/>

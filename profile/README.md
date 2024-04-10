@@ -178,10 +178,13 @@
   ### Backend
   * Java 17
   * Spring Boot 3.2.2
-  * SpringSecurity(OAuth2, JWT)
-  * Spring Data JPA
+  * Spring Security(OAuth2)
+  * Spring Data JPA (Jpa Auditing, 
   * Spring Cloud-aws 2.2.6
   * Spring Websocket
+  * Gradle 8.5
+  * Slf4j
+  * Jwt
 
   ### Frontend
   * HTML5/CSS3
@@ -195,7 +198,7 @@
 
   ### DB
   * MariaDB 10.11.6
-  * Elastic Stack(Beats, Logstash, ElasticSearch, Kibana) 개발중
+  * Elastic Stack(Beats, Logstash, ElasticSearch, Kibana) 접목중
 
   ### Open API
   * [Naver Cloud Maps(Web Dynamic Map)](https://www.ncloud.com/product/applicationService/maps)
@@ -211,6 +214,7 @@
   * S3(presgined-url)
   * Route53
   * RDS
+  * ACM
 
   ### CI/CD
   * Github Action

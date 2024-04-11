@@ -1,6 +1,6 @@
 
 <section align="end" style="color: #fff;">
-  <p>${\small\texttt{\color{#a9a9a9} last 23.04.02}}$</p>
+  <p>${\small\texttt{\color{#a9a9a9} last 23.04.11}}$</p>
 </section>
 
 <section align="center">
@@ -242,7 +242,8 @@
   <img src="https://github.com/PinTogether/.github/assets/89989211/dc58d944-f6ea-498b-908d-5f9dff6834ce" alt="pintogether-architecture" width="800"/>
 
   <h2>📌 Api</h2>
-  * API Notion Link
+  
+  * [API Notion Link](https://wellcome-jiwoo-land.notion.site/API-a93bfddcca4941289848dc44c077f107?pvs=4)
   <img src="https://github.com/PinTogether/.github/assets/95565246/0a07c184-5323-44a2-95c1-11b0f81548c6" alt="pintogether-api" />
 
   <h2>📌 ERD</h2>

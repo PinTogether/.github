@@ -140,9 +140,8 @@
           <td align=center>
             - DB설계 및 엔티티 매핑<br/>
             - API설계 <br/>
-            - 멤버, 컬렉션, 알림 API 구현 <br/>
-            - 웹 소켓 기반 알림 구현 <br/>
-            - 검색 <br/>
+            - 멤버, 컬렉션, 알림, 검색 API 구현 <br/>
+            - web socket 기반 알림 구현 <br/>
           </td>
       </tr>
   </table>

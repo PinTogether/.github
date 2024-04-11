@@ -115,7 +115,8 @@
             (로그인, 검색, 장소, 알림, 신고)<br/>
             - 재사용 가능한 컴포넌트 구현<br/> 
             (컬렉션, 핀, 장소 카드) <br/> 
-            (input, textarea, 카드슬라이더) <br/> 
+            (input, textarea, 카드슬라이더) <br/>
+            - Redux 활용 로그인 상태관리
             - Presigned-url 활용 이미지 업로드 <br/>
             - 활용 가능한 api 및 데이터 서치 <br/>
           </td>

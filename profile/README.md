@@ -110,9 +110,8 @@
       </tr>
       <tr>
           <td align=center>
-            - 전반적인 페이지 담당, API연결<br/>
-            (프로필, 컬렉션, 핀의 조회 및 수정)<br/>
-            (로그인, 검색, 장소, 알림, 신고)<br/>
+            - 프로필, 컬렉션, 핀 조회 및 수정 페이지, API연결 <br/>
+            - 로그인, 검색, 장소, 알림, 신고 페이지, API연결 <br/>
             - 재사용 가능한 컴포넌트 구현<br/> 
             (컬렉션, 핀, 장소 카드) <br/> 
             (input, textarea, 카드슬라이더) <br/>
@@ -125,12 +124,11 @@
             - 지도 이용하는 기능 구현 <br/>
             - 페이지 기본 레이아웃, 사이드바, 지도 오버레이 구현 <br/>
             - 각 페이지와 지도 연동 <br/>
-            - 일부 페이지 담당 <br/>
-              (메인페이지, 프로필, 설정, 컬렉션 생성) <br/>
+            - 메인페이지, 프로필, 설정, 컬렉션 생성 페이지 담당 <br/>
             - 스켈레톤 ui <br/>
           </td>
           <td align=center>
-            - ERD/API (1/3)<br/>
+            - ERD/API<br/>
             - 로그인 (JWT, OAuth(google, kakao, naver)<br/>
             - 검색엔진<br/>
             - 지도 데이터 관리<br/>
@@ -140,8 +138,8 @@
             - AWS (Amplify, ElasticBeanstalk, RDS, S3, ACM, IAM, Route53...)<br/>
           </td>
           <td align=center>
-            - 전반적인 DB설계 및 엔티티 매핑<br/>
-            - 전반적인 API설계 <br/>
+            - DB설계 및 엔티티 매핑<br/>
+            - API설계 <br/>
             - 멤버, 컬렉션, 알림 API 구현 <br/>
             - 웹 소켓 기반 알림 구현 <br/>
             - 검색 <br/>

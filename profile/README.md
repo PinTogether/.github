@@ -105,8 +105,8 @@
       <tr>
           <td align=center>프론트엔드, 기획, 디자인</td>
           <td align=center>프론트엔드</td>
-          <td align=center>백엔드, 인프라(클라우드), CI/CD</td>
-          <td align=center>백엔드, 인프라(클라우드)</td>
+          <td align=center>백엔드, 클라우드, CI/CD</td>
+          <td align=center>백엔드, 클라우드, CI/CD</td>
       </tr>
       <tr>
           <td align=center>
@@ -142,6 +142,7 @@
             - API설계 <br/>
             - 멤버, 컬렉션, 알림, 검색 API 구현 <br/>
             - web socket 기반 알림 구현 <br/>
+            - AWS (ElasticBeanStalk, RDS, S3) <br/>
           </td>
       </tr>
   </table>

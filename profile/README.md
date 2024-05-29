@@ -181,6 +181,7 @@
   * Spring Data JPA (Jpa Auditing, 
   * Spring Cloud-aws 2.2.6
   * Spring Websocket
+  * Spring AOP
   * Gradle 8.5
   * Slf4j
   * Jwt

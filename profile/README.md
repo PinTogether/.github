@@ -152,7 +152,11 @@
 <section>
   <h2>📌 서비스 화면</h2>
   
-  [프레젠테이션으로 보기](https://www.canva.com/design/DAGB4VnAkAw/npGrZzdtfy3Z-uApnkKp_A/view?utm_content=DAGB4VnAkAw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  [프레젠테이션으로 보기🔗](https://www.canva.com/design/DAGB4VnAkAw/npGrZzdtfy3Z-uApnkKp_A/view?utm_content=DAGB4VnAkAw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
+[영상기록(유튜브)으로 보기🔗![유튜브 영상](https://i.ytimg.com/vi/iS1BNkMXYMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSiBaKGUwDw==&rs=AOn4CLCs0Pggk3AkDcIHWLYi2sKTEoBpHQ)](https://youtu.be/iS1BNkMXYMg?si=Md0p45gQhKGho6S9)
+
   
 ![2](https://github.com/PinTogether/.github/assets/89989211/64870e27-121e-4903-8720-d0677b28108a)
 ![3](https://github.com/PinTogether/.github/assets/89989211/952921a3-2c31-434f-aec7-fa16bd25b4eb)
